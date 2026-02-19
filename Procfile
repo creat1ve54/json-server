@@ -1,0 +1,1 @@
+web: json-server db.json --host 0.0.0.0 --port $PORT
