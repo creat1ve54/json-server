@@ -1,0 +1,94 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Разработать архитектуру приложения",
+      "description": "Спроектировать структуру папок, настроить Redux Toolkit и TypeScript конфиг.",
+      "status": "Выполнено",
+      "createdAt": "2023-10-25T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Интеграция с REST API",
+      "description": "Реализовать методы GET, POST, PUT для взаимодействия с сервером.",
+      "status": "В работе",
+      "createdAt": "2023-10-27T09:15:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Добавить темную тему",
+      "description": "Реализовать переключатель темы и сохранить выбор в localStorage.",
+      "status": "Выполнено",
+      "createdAt": "2023-10-28T16:45:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Оптимизация рендеринга списков",
+      "description": "Использовать React.memo и useMemo для предотвращения лишних перерисовок.",
+      "status": "В работе",
+      "createdAt": "2023-10-29T11:20:00Z"
+    },
+    {
+      "title": "Топ задача",
+      "status": "Выполнено",
+      "description": "Супер ская",
+      "id": "6331"
+    },
+    {
+      "id": "02cd",
+      "title": "321312",
+      "status": "В работе",
+      "description": "dsadadsadasda"
+    },
+    {
+      "id": "6cf6",
+      "title": "dsa",
+      "status": "В работе",
+      "description": "sadasdsadas"
+    },
+    {
+      "id": "26f5",
+      "title": "dsadsa",
+      "status": "В работе",
+      "description": "dsada"
+    },
+    {
+      "id": "5019",
+      "title": "dasdsad",
+      "status": "Выполнено",
+      "description": "sadsada"
+    },
+    {
+      "id": "90fc",
+      "title": "Круто",
+      "status": "В работе",
+      "description": "выфвфывф"
+    }
+  ],
+  "users": [
+    {
+      "id": "101",
+      "name": "Алексей Иванов",
+      "role": "Senior Frontend Developer",
+      "bio": "Любит React и чистый код. Ответственный за архитектуру проекта."
+    },
+    {
+      "id": "102",
+      "name": "Мария Петрова",
+      "role": "UI/UX Designer",
+      "bio": "Создает красивые интерфейсы и заботится о пользователях."
+    },
+    {
+      "id": "103",
+      "name": "Дмитрий Сидоров",
+      "role": "Backend Developer",
+      "bio": "Пишет быстрые API и проектирует базы данных."
+    },
+    {
+      "id": "104",
+      "name": "Елена Смирнова",
+      "role": "Project Manager",
+      "bio": "Следит за сроками и общается с заказчиком."
+    }
+  ]
+}
